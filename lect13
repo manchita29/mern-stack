@@ -1,0 +1,3 @@
+install reactjs in laptop
+cammand:npm install -g create-react-app 
+create-react-app --version
